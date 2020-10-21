@@ -37,7 +37,7 @@ exports.model = {
   mysql: {
     handle: mysql,
     database: 'james',
-    prefix: '',
+    prefix: 'nideshop_',
     encoding: 'utf8',
     host: '127.0.0.1',
     port: '',
